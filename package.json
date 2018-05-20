@@ -1,0 +1,20 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Examples of algorithms and data structures",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stenin-nikita/algorithms.git"
+  },
+  "keywords": [],
+  "author": "Nikita Stenin <steini.nikita@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stenin-nikita/algorithms/issues"
+  },
+  "homepage": "https://github.com/stenin-nikita/algorithms#readme"
+}
